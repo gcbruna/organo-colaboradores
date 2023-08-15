@@ -2,7 +2,7 @@ import './rodape.css'
 
 function Rodape () {
     return (
-        <footer className='rodape'>
+        <footer className='footer'>
             <div className='logo'>
                 <img src="/imagem/fb.png" alt="rodape da pagina principal"/>
                 <img src="/imagem/tw.png" alt="rodape da pagina principal"/>

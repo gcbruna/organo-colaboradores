@@ -1,4 +1,4 @@
-.rodape {
+.footer {
     background-color: #4B9093;
     color: #fff;
     display: flex;
@@ -11,7 +11,7 @@
     padding: 1rem;
 }
 
-.rodape img {
+.footer img {
     max-width: 100%;
     padding: 0.5em;
 }
